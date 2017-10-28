@@ -11,3 +11,11 @@
 ## Angular CLI
 
 `$ ng --version`
+
+## Node
+
+`$ node -v`
+
+## NPM
+
+`$ npm -v`
