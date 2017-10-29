@@ -19,3 +19,7 @@
 ## NPM
 
 `$ npm -v`
+
+## Postgres
+
+`$ postgres -V`
