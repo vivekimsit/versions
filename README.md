@@ -23,3 +23,8 @@
 ## Postgres
 
 `$ postgres -V`
+
+## Apache
+
+`$ httpd -v`
+`$ apachectl -v`
