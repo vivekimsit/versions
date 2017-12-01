@@ -23,3 +23,7 @@
 ## Postgres
 
 `$ postgres -V`
+
+## PHP
+
+`$ php -v`
